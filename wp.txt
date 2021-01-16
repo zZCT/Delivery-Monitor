@@ -1,0 +1,2 @@
+<html><head><title> Take Away </title></head><body><font face="Arial" size="7">Take Away Verification<br><br></font><font face="Arial" size="5">location<br><br></font><iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=https://maps.google.com.tw/maps?f=q&hl=zh-TW&geocode=&q=
+&z=16&output=embed&t=></iframe><font face="Arial" size="5"><br><br>acceleration<br><br></font><img src="acc.png" /></body></html>
